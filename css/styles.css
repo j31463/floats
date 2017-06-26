@@ -1,0 +1,448 @@
+.container{
+	height: 800px;
+	width: 1000px;
+	position: relative;
+	top: 100px;
+	left: 400px;
+	border: 20px solid black;
+	padding: 10px;
+}
+.box{
+	height: 200px;
+	width: 100px;
+}
+.one{
+	background-color: rgb(81,223,180);
+	float: right;
+  margin: 0 0 10px 10px;
+  height: 100px;
+  width: 100px;
+}
+.two{
+	background-color: rgb(62,125,222);
+	float: left;
+	margin: 0 0 10px 10px;
+	width: 400px;
+	height: 200px;
+	position: absolute;
+}
+.three{
+	background-color: rgb(58,65,76);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 50px;
+	top: 75px;
+	left: 50px;
+	} 
+.four{
+	background-color: rgb(58,65,76);
+	position: relative;
+	height: 50px;
+	width: 100px;
+	left: 160px;
+	top: 75px;
+}
+.five{
+background-color: rgb(58,65,76);
+position: relative;
+height: 50px;
+width: 50px;
+top: 25px;
+left: 320px;
+}
+.six{
+	background-color: rgb(246,227,0);
+	position: relative;
+	height: 200px;
+	width: 200px;
+	left: 410px;
+	bottom: 100px;
+}
+.seven{
+	background-color: rgb(58,58,58);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 50px;
+	bottom: 150px;
+	left: 560px;
+}
+.eight{
+	background-color: rgb(58,58,58);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 50px;
+	bottom: 300px;
+	left: 360px;
+}
+.nine{
+	background-color: rgb(207,207,207);
+	float: right;
+	position: relative;
+	height:200px; 
+	width: 200px;
+	right: 190px;
+	bottom: 300px;
+}
+.ten{
+	background-color: rgb(58,58,58);
+	float: right;
+	position: relative;
+	height: 50px;
+	width: 50px;
+	bottom: 227px;
+	right: 63px;
+}
+.eleven{
+	background-color: rgb(188,0,29);
+	float: right;
+	position: relative;
+	height: 200px;
+	width: 98px;
+	left: 150px;
+	bottom: 300px;
+}
+.twelve{
+	background-color: rgb(58,58,58);
+	float: right;
+	position: relative;
+	height: 100px;
+	width: 100px;
+	bottom: 200px;
+	left: 348px;
+}
+.red{
+	background-color: rgb(190,0,34);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 50px;
+	bottom: 100px;
+	right: 90px;
+}
+.gold{
+	background-color: rgb(246,227,0);
+	float: left;
+	position: relative;	
+	height: 50px;
+	width: 50px;
+	bottom: 100px;
+	right: 90px;
+}
+.purple{
+	background-color: rgb(167,0,220);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 400px;
+	bottom: 150px;
+	left: 210px;
+}
+.oranje{
+	background-color: rgb(238,148,12);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 400px;
+	bottom: 150px;
+	left: 10px;
+}
+.green{
+	background-color: rgb(55,100,0);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 200px;
+	bottom: 150px;
+	left: 10px;
+}
+.indigo{
+	background-color: rgb(118,0,255);
+	float: right;
+	position: relative;
+	height: 100px;
+	width: 400px;
+	bottom: 250px;
+	left: 348px;
+}
+.black{
+	background-color: rgb(58,58,58);
+	float: left;
+	position: relative;
+	height: 200px;
+	width: 200px;
+	bottom: 150px;
+	left: 10px;
+}
+.yellow{
+	background-color: rgb(246,227,0);
+	float: left;
+	position: relative;
+	height: 100px;
+	width: 100px;
+	bottom: 50px;
+	right: 190px;
+}
+.orange{
+	background-color: rgb(238,148,12);
+	float: left;
+	position: relative;
+	height: 100px;
+	width: 100px;
+	right: 190px; 
+	bottom: 50px;
+}
+.sun{
+	background-color: rgb(238,148,12);
+	float: left;
+	position: relative;
+	height: 100px;
+	width: 100px;
+	top: 50px;
+	right: 390px;
+}
+.g{
+	background-color: rgb(207,207,207);
+	float: left;
+	position: relative;
+	height: 100px;
+	width: 100px;
+	top: 50px;
+	right: 390px;
+}
+.firebrick{
+	background-color: rgb(190,0,34);
+	float: left;
+	position: relative;
+	width: 300px;
+	height: 400px;
+	bottom: 250px;
+	right: 390px;
+}
+.one_white{
+	background-color: white;
+	float: left;
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 220px;
+}
+.two_white{
+	background-color: rgb(250,250,250);
+	float: left;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	bottom: 250px;
+	right: 440px;
+}
+.three_white{
+	background-color: white;
+	float: left;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	right: 740px;
+	top: 100px;
+}
+.four_white{
+	background-color: white;
+	float:left;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	right: 440px;
+	top: 50px;
+	}
+.middle_white{
+	background-color: rgb(255,255,255);
+	float: left;
+	position: relative;
+	width: 100px;
+	height: 100px;
+	bottom: 200px;
+	right: 590px;
+}
+.neon_green{
+	background-color: rgb(117,205,0);
+	float: right;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	bottom: 450px;
+	right: 440px;
+}
+.wl_one{
+	background-color: white;
+	float: right;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	bottom: 450px;
+	right: 340px;
+}
+.ng_two{
+	background-color: rgb(117,205,0);
+	float: right;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	bottom: 500px;
+	right: 340px;
+}
+.wl_three{
+	background-color: white;
+	float: right;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	bottom: 500px;
+	right: 240px;
+}
+.ng_four{
+	background-color: rgb(117,205,0); 
+	float: right;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	bottom: 550px;
+	right: 240px;
+}
+.wl_five{
+	background-color: white;
+	float: right;
+	position: relative;
+	width: 50px;
+	height: 50px;
+	bottom: 550px;
+	right: 140px; 
+}
+.grey_one{
+	background-color: rgb(207,207,207);
+	float: right;
+	position: relative;
+	height: 50px;
+	width: 300px;
+	bottom: 600px;
+	right: 190px;
+}
+.green_one{
+	background-color: rgb(55,100,0);
+	float: right;
+	position: relative;
+	height: 50px;
+	width: 300px;
+	bottom: 550px;
+	left: 110px;
+}
+.grey_two{
+	background-color: rgb(207,207,207);
+	float:left;
+	position: relative;
+	height: 50px;
+	width: 300px;
+	bottom: 500px;
+	left: 510px;
+}
+.turquiose{
+	background-color: rgb(81,223,180);
+	float:right;
+	position: relative;
+	height: 200px;
+	width: 300px;
+	bottom: 500px; 
+	right: 190px;
+}
+.black_two{
+	background-color: rgb(58,58,58);
+	float: right;
+	position: relative;
+	height: 200px;
+	width: 192px;
+	bottom: 700px;
+	left: 300px;
+}
+.grey_three{
+	background-color: rgb(207,207,207);
+	float: right;
+	position: relative;
+	height: 200px;
+	width: 194px;
+	bottom: 500px;
+	left: 492px;
+}
+.indigo_two{
+	background-color: rgb(118,0,255);
+	float: left;
+	position: relative;
+	height: 100px;
+	width: 400px;
+	bottom: 500px;
+	left: 10px;
+}
+.purple_two{
+	background-color: rgb(167,0,220);
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 398px;
+	bottom: 500px;
+	left: 10px;
+}
+.yellow_two{
+	background-color: yellow;
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 49px;
+	bottom: 500px;
+	right: 40px;
+}
+.yellow_three{
+	background-color: yellow;
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 49px;
+	bottom: 500px;
+	right: 43px;
+}
+.red_two{
+	background-color: firebrick;
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 49px;
+	bottom: 500px;
+	left: 55px;
+}
+.red_three{
+	background-color: firebrick;
+	float: left;
+	position: relative;
+	height: 50px;
+	width: 49px;
+	bottom: 500px;
+	left: 55px;
+	}
+.green_two{
+	background-color: rgb(55,100,0);
+	float: none;
+	position: absolute;
+	height: 50px;
+	width: 190px;
+	top: 760px;
+	left: 420px;
+}
+.orange_two{
+	background-color: rgb(238,148,12);
+	float: none;
+	position: absolute;
+	height: 50px;
+	width: 400px;
+	top: 760px;
+	left: 610px;
+
+}
